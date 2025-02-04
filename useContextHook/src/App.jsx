@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <counterContext.provider>
+      <counterContext.Provider value={count}>
         <div>
           <h1>{count}</h1>
         </div>
@@ -22,7 +22,7 @@ function App() {
         <div>
           <Navbar />
         </div>
-      </counterContext.provider>
+        </counterContext.Provider>
     </>
   )
 }
