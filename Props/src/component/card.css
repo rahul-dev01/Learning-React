@@ -1,0 +1,16 @@
+
+.cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.card{
+    margin: 20px;
+    width: 20vw;
+    border: 2px solid black;
+    padding: 20px;
+    overflow: hidden;
+}
+
+

@@ -1,0 +1,22 @@
+rafce : it a boler palte tamplete 
+
+
+                    ***  Props : we can pass the data from one component to another component
+
+
+we can pass height width also in a props or like variable 
+
+we can write the also write the css in jsx  : 
+    we can add css like js or we can say that we are using the js to write the css
+     style={{}}
+     {first } : is for js we are writting js in {}  \
+     {second } :  second is using for writting the object and we can pass css through the object
+     style={{border: "2px solid red"}}
+
+     ### Overflow : hidden : we are using this for the ajust the image in the container  : this property is used for container 
+
+
+
+
+
+                        ***  HOOKS 

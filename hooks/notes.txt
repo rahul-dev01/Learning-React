@@ -1,0 +1,33 @@
+npm create vite@latest
+npm i 
+npm run dev
+
+Extra Point 
+
+<link rel="icon" type="image/svg+xml" href="/vite.svg" />
+code -r <File Name which we want to open in prevision folder > :  which is presented in next folder 
+
+StrictMode  : it is in main.js -> the working for StrictMode is to run the code twice : 
+        one for checking it and another for runnniong it 
+
+
+
+                                    Hooks
+
+1 ) UseState() :  
+2 ) UseEffect() : ye component ke mount(Load) hone per chalta hai 
+
+
+
+useEffect(() =>{
+    },[])
+
+
+
+
+
+
+
+
+
+

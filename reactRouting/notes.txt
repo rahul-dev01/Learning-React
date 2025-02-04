@@ -1,0 +1,13 @@
+Why we are using react-router-dom >
+-beacuse we didn't want to reload our page for the minor change 
+in our page 
+
+Link : we use link to coupup with the issu for reload a page 
+
+         <a> = <link>
+
+
+         <> </> = it is know as react fragment 
+        
+
+How to use NavLink 

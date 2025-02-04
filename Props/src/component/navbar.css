@@ -1,0 +1,17 @@
+
+nav{
+    background-color: bisque;
+    height: 40px;
+}
+
+nav  >ul{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+   
+} 
+
+nav  >ul > li{
+    margin-top: 7px ;
+    list-style: none;
+}
