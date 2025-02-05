@@ -3,6 +3,7 @@ import { memo } from 'react'
 
 const Navbar = ({ adjective ,getAdjective }) => {
     console.log("Navnar is rendering... ")
+    
     return (
         <>
             <div>
